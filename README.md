@@ -76,7 +76,7 @@ A passion project cloned from Tumblr user aukiq simulating how the search system
 
 * Create case files with the right incident and classification according to the codes
 * Ensure to follow the format described in the transcript, whether its a statement, a blog post, or an article.
-
+[Repo Link](https://github.com/a-ahabwe/fr3-d1.git)
 ---
 
 ## 📊 Skills
