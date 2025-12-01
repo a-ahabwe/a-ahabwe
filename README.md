@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am Ahabwe!
+I'm an engineer working at the intersection of **healthcare systems, AI, and field deployment.** I blend a background in **biomedical engineering** with a **master's in AI**, designing and deploying solutions that work in real-world clinical settings.
 
 <!--
 **a-ahabwe/a-ahabwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
